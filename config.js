@@ -39,7 +39,7 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6285876830674', 'Vann', true],
+['6288803786974', 'Vann', true],
 ['6285876830674', 'VANN', true]
 ]
 global.mods = []
